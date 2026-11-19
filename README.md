@@ -563,8 +563,8 @@ LearnJSTSPlaywright4x/
 You only need [Node.js](https://nodejs.org/) 18 or newer. Chapter 08 uses one npm package ([prompt-sync](https://www.npmjs.com/package/prompt-sync)), so run `npm install` once after cloning.
 
 ```bash
-git clone https://github.com/PramodDutta/LearnJSTSPlaywright4x.git
-cd LearnJSTSPlaywright4x
+git clone https://github.com/puttagiridharbabu-spec/JSTS-AIwithPlaywright.git
+cd JSTS-AIwithPlaywright
 npm install                                 # installs prompt-sync for chapter 08
 node --version                              # v18+ (tested on v22)
 node 01_chapter_JS_Basics/01_HelloWorld.js  # Hello World!
